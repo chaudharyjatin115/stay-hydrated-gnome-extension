@@ -1,0 +1,8 @@
+{
+  "uuid": "water-reminder@chaudharyjatin115.github.com",
+  "name": "Stay Hydrated",
+  "description": "Shows a hydration reminder notification every hour.",
+  "shell-version": ["45", "46", "47", "48", "49"],
+  "version": 2,
+  "url": "mailto:chaudharyjatin116@proton.me"
+}
